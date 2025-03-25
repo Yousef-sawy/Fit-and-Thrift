@@ -18,6 +18,21 @@ FashionConnect is a social networking platform designed specifically for individ
 * **Firebase:** Backend-as-a-service (BaaS) for authentication and data storage.
 * **Google Sign-In API:** For simplified user authentication.
 
+## Screenshots
+
+* **Main Page (Sign In):**
+    ![Main Page](https://github.com/user-attachments/assets/53d34cb4-1e34-4b9d-99f6-692f0016f3b9)
+    * This is the initial page where users are prompted to sign in with their Google accounts.
+* **Google Account Selection:**
+    ![Google Account Selection](https://github.com/user-attachments/assets/5c5d6452-f08b-46be-a7a4-7acfbdf6459d)
+    * Users can select an existing Google account or create a new one to log in.
+* **Main Feed Page:**
+    ![Main Feed](https://github.com/user-attachments/assets/ed54bd2a-49c8-4869-b938-cb9a365befae)
+    * This is the main feed where users can see posts from other community members.
+* **Create Post Window:**
+    ![Create Post](https://github.com/user-attachments/assets/97c6b935-bd1d-490f-bfaf-a351a8e60b81)
+    * Users can create and share their own posts with the community.
+
 ## Getting Started
 
 1.  **Clone the repository:**
